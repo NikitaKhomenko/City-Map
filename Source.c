@@ -425,14 +425,7 @@ void drawCrossroads(MAP cityMap, unsigned char* bmp)
 }
 
 
-//dist = sqrt((i - c.y)*(i - c.y) + (j - c.x)*(j - c.x));
-
-
-
-
 //////////// ******** Free all dynamic allocated lists ******** ////////////
-
-
 
 void  FreeStreetList(MAP *cityMap)
 {
